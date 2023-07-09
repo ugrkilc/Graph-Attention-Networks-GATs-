@@ -1,4 +1,4 @@
-# GAT
+# Graph Attention Networks (GAT)
 Graph Attention Networks (Veličković *et al.*, ICLR 2018): [https://arxiv.org/abs/1710.10903](https://arxiv.org/abs/1710.10903)
 
 GAT layer            |  t-SNE + Attention coefficients on Cora
